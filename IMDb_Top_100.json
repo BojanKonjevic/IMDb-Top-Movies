@@ -1,0 +1,674 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "duration": "2h 22m",
+        "content_rating": "R",
+        "audience_rating": "9.3"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "duration": "2h 55m",
+        "content_rating": "R",
+        "audience_rating": "9.2"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "duration": "2h 32m",
+        "content_rating": "PG-13",
+        "audience_rating": "9.0"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "duration": "3h 22m",
+        "content_rating": "R",
+        "audience_rating": "9.0"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "duration": "1h 36m",
+        "content_rating": "Approved",
+        "audience_rating": "9.0"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "duration": "3h 21m",
+        "content_rating": "PG-13",
+        "audience_rating": "9.0"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "duration": "3h 15m",
+        "content_rating": "R",
+        "audience_rating": "9.0"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "duration": "2h 34m",
+        "content_rating": "R",
+        "audience_rating": "8.9"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "duration": "2h 58m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.9"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "duration": "2h 58m",
+        "content_rating": "R",
+        "audience_rating": "8.8"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "duration": "2h 22m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.8"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "duration": "2h 59m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.8"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "duration": "2h 19m",
+        "content_rating": "R",
+        "audience_rating": "8.8"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "duration": "2h 28m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.8"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "duration": "2h 4m",
+        "content_rating": "PG",
+        "audience_rating": "8.7"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "duration": "2h 16m",
+        "content_rating": "R",
+        "audience_rating": "8.7"
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "duration": "2h 25m",
+        "content_rating": "R",
+        "audience_rating": "8.7"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "duration": "2h 49m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.7"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "duration": "2h 13m",
+        "content_rating": "R",
+        "audience_rating": "8.7"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "duration": "2h 7m",
+        "content_rating": "R",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "duration": "2h 10m",
+        "content_rating": "PG",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "duration": "1h 58m",
+        "content_rating": "R",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "duration": "3h 27m",
+        "content_rating": "Not Rated",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "duration": "2h 49m",
+        "content_rating": "R",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "duration": "2h 10m",
+        "content_rating": "R",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "duration": "3h 9m",
+        "content_rating": "R",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "duration": "1h 56m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "duration": "2h 17m",
+        "content_rating": "R",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": "1977",
+        "duration": "2h 1m",
+        "content_rating": "PG",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "duration": "1h 56m",
+        "content_rating": "PG",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "duration": "2h 4m",
+        "content_rating": "PG",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "duration": "2h 30m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "duration": "2h 35m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "duration": "2h 12m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "duration": "1h 49m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "duration": "1h 28m",
+        "content_rating": "G",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "duration": "1h 28m",
+        "content_rating": "Not Rated",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "duration": "2h 31m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "duration": "1h 46m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "duration": "2h 13m",
+        "content_rating": "Not Rated",
+        "audience_rating": "8.6"
+    },
+    {
+        "title": "American History X",
+        "year": "1998",
+        "duration": "1h 59m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "duration": "2h 10m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Léon: The Professional",
+        "year": "1994",
+        "duration": "1h 50m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "duration": "2h 20m",
+        "content_rating": "PG",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "duration": "1h 42m",
+        "content_rating": "PG",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "duration": "1h 46m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "The Intouchables",
+        "year": "2011",
+        "duration": "1h 52m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "duration": "2h 54m",
+        "content_rating": "PG",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "duration": "1h 57m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "duration": "1h 27m",
+        "content_rating": "G",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "duration": "1h 52m",
+        "content_rating": "PG",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "duration": "2h 46m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "duration": "2h 45m",
+        "content_rating": "R",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "duration": "1h 27m",
+        "content_rating": "G",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "duration": "2h 27m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "duration": "2h 46m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.5"
+    },
+    {
+        "title": "WALL·E",
+        "year": "2008",
+        "duration": "1h 38m",
+        "content_rating": "G",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Memento",
+        "year": "2000",
+        "duration": "1h 53m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "duration": "1h 55m",
+        "content_rating": "PG",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "duration": "2h 17m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "duration": "2h 29m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": "1950",
+        "duration": "1h 50m",
+        "content_rating": "Approved",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "duration": "1h 57m",
+        "content_rating": "PG",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "duration": "1h 56m",
+        "content_rating": "Approved",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "duration": "1h 28m",
+        "content_rating": "Approved",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "duration": "2h 26m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "duration": "2h 5m",
+        "content_rating": "G",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "duration": "2h 33m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "duration": "2h 17m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "duration": "2h 44m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Coco",
+        "year": "2017",
+        "duration": "1h 45m",
+        "content_rating": "PG",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "duration": "2h 40m",
+        "content_rating": "PG",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "duration": "1h 21m",
+        "content_rating": "G",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "duration": "3h 1m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "duration": "2h 6m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "duration": "2h",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "duration": "1h 35m",
+        "content_rating": "PG",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "American Beauty",
+        "year": "1999",
+        "duration": "2h 2m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Braveheart",
+        "year": "1995",
+        "duration": "2h 58m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "duration": "2h 13m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "duration": "2h 23m",
+        "content_rating": "Not Rated",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "3 Idiots",
+        "year": "2009",
+        "duration": "2h 50m",
+        "content_rating": "PG-13",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "duration": "2h 2m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "duration": "3h 49m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Capernaum",
+        "year": "2018",
+        "duration": "2h 6m",
+        "content_rating": "R",
+        "audience_rating": "8.4"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "duration": "1h 43m",
+        "content_rating": "G",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "duration": "2h 22m",
+        "content_rating": "Not Rated",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "duration": "1h 42m",
+        "content_rating": "NC-17",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "duration": "2h 11m",
+        "content_rating": "PG",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "duration": "1h 43m",
+        "content_rating": "G",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "duration": "1h 55m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "duration": "2h 23m",
+        "content_rating": "Not Rated",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "duration": "1h 48m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "duration": "2h 29m",
+        "content_rating": "G",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "duration": "1h 39m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "duration": "2h 11m",
+        "content_rating": "R",
+        "audience_rating": "8.3"
+    }
+]
